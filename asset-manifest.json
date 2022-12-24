@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/invitacion/static/css/main.39cbdc4a.css",
+    "main.js": "/invitacion/static/js/main.8b64a3e3.js",
+    "static/js/787.ae33b272.chunk.js": "/invitacion/static/js/787.ae33b272.chunk.js",
+    "static/media/pao.pdf": "/invitacion/static/media/pao.2119391c319452682e6d.pdf",
+    "static/media/fondo-wal.jpg": "/invitacion/static/media/fondo-wal.11bdd2df4c320d5de99c.jpg",
+    "static/media/memeface.png": "/invitacion/static/media/memeface.7a8714ef393020cf98e7.png",
+    "index.html": "/invitacion/index.html",
+    "main.39cbdc4a.css.map": "/invitacion/static/css/main.39cbdc4a.css.map",
+    "main.8b64a3e3.js.map": "/invitacion/static/js/main.8b64a3e3.js.map",
+    "787.ae33b272.chunk.js.map": "/invitacion/static/js/787.ae33b272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39cbdc4a.css",
+    "static/js/main.8b64a3e3.js"
+  ]
+}
